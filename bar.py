@@ -1,3 +1,3 @@
 def bar():
-	print("Hello World")
+	print("Hello World from git subtree directory")
 
